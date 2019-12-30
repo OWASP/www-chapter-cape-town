@@ -93,7 +93,7 @@ For past events please view:
 **Slides**
 
 Slides from 1st Official OWASP Cape Town Meeting: [1st Meeting
-Slides](https://www.owasp.org/images/c/cd/Owasp-meeting1-17jun2015.pdf)
+Slides](/www-pdf-archive/Owasp-meeting1-17jun2015.pdf)
 
 Slides from 2nd Meeting [Intro To
 Enumeration](https://www.owasp.org/images/6/6e/Intro_To_Enumeration_FINAL_MAIL_OUT.odp)
@@ -122,5 +122,5 @@ DSS](https://docs.google.com/presentation/d/1spHkDjvLA4apqKmIGrKRfNB1cMHWB8nzwjW
 
   - [0xC0FFEE Monthly Hacker Meetup](https://twitter.com/0xC0FFEE_CPT)
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Africa](Category:Africa "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Africa](Category:Africa )
