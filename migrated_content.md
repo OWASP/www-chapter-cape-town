@@ -35,7 +35,9 @@ very big.
   - [OWASP Cape Town Chapter Meetup
     Group](http://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup)
 
-#### Upcoming and past events
+#### Upcoming  Events
+
+#### Past events
 
   - [2 December 2017 - BSIDES Cape
     Town](http://www.bsidescapetown.co.za/)
