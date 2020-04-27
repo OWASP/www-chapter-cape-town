@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Cape Town
-tags: example-tag
+tags: cpt capetown southafrica
 level: 0
 
 region: Africa
@@ -11,25 +11,10 @@ auto-migrated: 1
 
 ---
 
-
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
 ## Welcome
-Include some information here about your chapter
+OWASP Cape Town is a local South African chapter aimed at reaching and engaging the local developer and infosec community. OWASP Cape Town holds regular meetups as well as get involved in local conferences and groups such as BSDIDES Cape Town: https://bsidescapetown.co.za/. 
+
+OWASP Cape Town is community driven and we always welcome local people to get involved in giving talks and share how they are doing their bit in securing the web. Please reach out if you would like to give a talk.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -38,11 +23,6 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
 {info.md}
 
 This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
@@ -51,4 +31,115 @@ This separate file is where you should place links to your Google Group and Meet
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
--->
+
+## Opposing the South African Cyber Crimes Bill
+
+[Opposing the cyber crimes
+bill](https://www.owasp.org/index.php/Opposing_South_African_CyberCrimes_Bill)
+
+## Local News
+
+**Meeting Location**
+
+Everyone is welcome to join us at our chapter meetings.
+
+### Join Our Events
+
+Please join our meetup group if you would like to attend future events:
+It is important to RSVP if you would like to attend, our venue is not
+very big.
+
+  - [OWASP Cape Town Chapter Meetup
+    Group](http://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup)
+
+#### Upcoming  Events
+
+#### Past events
+
+  - [2 December 2017 - BSIDES Cape
+    Town](http://www.bsidescapetown.co.za/)
+  - [25 October 2017 - Using JWTs for Authentication, particularly as it
+    pertains to Web based
+    APIs](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/244244084/)
+  - [28 September 2017 - Understanding and Dealing with Zero
+    Days](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/243574182/)
+  - [23 Aug 2017 - Fighting the Previous War - Attacking and Defending
+    in the Cloud
+    Era](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/242384147/)
+  - [19 Apirl 2017 - Catch Me If You
+    Can](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/238950109/)
+  - [March 15 2017 · 7:00 PM - Hunting rogue WiFi devices using the
+    HackRF
+    SDR](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/238025690/)
+  - [February 21 2017 -p Security Mistakes in Commodity
+    Hardware](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/237603433/)
+  - [December 3 2017 - B-SIDES Cape Town
+    conference](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/235778173/)
+  - [Oct 26 2016 - Digital Forensic Analysis - Practical
+    example](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/234757685/)
+
+<!-- end list -->
+
+  - [OWASP Cape Town Chapter Meetup 9 Sept 2015 - PCI DSS for
+    Everyone](http://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/224785079/)
+
+<!-- end list -->
+
+  - [12 Aug 2015 - Intro To
+    Metasploit](http://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/223959271/)
+
+<!-- end list -->
+
+  - [8 July 2015 - Enumeration for Pentesters & Fun CTF
+    After](http://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/223412637/)
+
+<!-- end list -->
+
+  - [7 June 2015 - First Official OWASP Cape Town
+    Meeting](https://www.owasp.org/index.php/First_Official_OWASP_Cape_Town_Meeting)
+
+<!-- end list -->
+
+  - [Codebridge 3
+    Jun 2015](https://www.owasp.org/index.php/3_Jun_2015_Codebridge)
+
+For more upcoming events please view:
+<https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/?scroll=true>
+
+For past events please view:
+<https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/past/?scroll=true>
+
+**Slides**
+
+Slides from 1st Official OWASP Cape Town Meeting: [1st Meeting
+Slides](/www-pdf-archive/Owasp-meeting1-17jun2015.pdf)
+
+Slides from 2nd Meeting [Intro To
+Enumeration](https://www.owasp.org/images/6/6e/Intro_To_Enumeration_FINAL_MAIL_OUT.odp)
+
+Slides Intro To Metasploit [Intro To
+Metasploit](https://www.owasp.org/index.php/File:Intro_To_Metasploit_FINAL.odp)
+
+Slides from PCI DSS Talk [PCI
+DSS](https://docs.google.com/presentation/d/1spHkDjvLA4apqKmIGrKRfNB1cMHWB8nzwjW_A3QzVTs)
+
+#### Youtube Channel:
+
+<https://www.youtube.com/channel/UC514UtotMbbNAPqP6aeNpXA>
+
+## Local Infosec Community
+
+### Conferences
+
+  - [BSIDES Cape Town](http://www.bsidescapetown.co.za/)
+
+<!-- end list -->
+
+  - [ZACON](https://zacon.org.za)
+
+### Community Meetups
+
+  - [0xC0FFEE Monthly Hacker Meetup](https://twitter.com/0xC0FFEE_CPT)
+
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Africa](Category:Africa )
