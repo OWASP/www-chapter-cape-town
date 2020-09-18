@@ -35,10 +35,6 @@ This separate file is where you should place links to your Google Group and Meet
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
 
-## Opposing the South African Cyber Crimes Bill
-
-[Opposing the cyber crimes
-bill](https://www.owasp.org/index.php/Opposing_South_African_CyberCrimes_Bill)
 
 ## Local News
 
