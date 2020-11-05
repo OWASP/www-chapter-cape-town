@@ -4,9 +4,7 @@ layout: col-sidebar
 title: OWASP Cape Town
 tags: cpt capetown southafrica africa
 level: 0
-
 region: Africa
-
 auto-migrated: 1
 meetup-group: OWASP-Cape-Town-Chapter-Meetup
 country: South Africa
