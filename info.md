@@ -1,5 +1,3 @@
-Chapter Information
-* Chapter Region
 
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/)

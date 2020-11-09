@@ -1,9 +1,12 @@
 ---
+
 layout: col-sidebar
 title: OWASP Cape Town
 tags: cpt capetown southafrica africa
 level: 0
 region: Africa
+meetup-group: OWASP-Cape-Town-Chapter-Meetup
+country: South Africa
 postal-code: 8000
 
 ---
