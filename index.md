@@ -18,11 +18,10 @@ OWASP Cape Town holds regular meetups as well as gets involved in local conferen
 OWASP Cape Town is community driven and we always welcome local people to get involved in giving talks and share how they are doing their bit in securing the web. Please reach out if you would like to give a talk.
 
 ## Meetings
-**Meeting Location**
 
-Everyone is welcome to join us at our chapter meetings. In person meetings are held at various locations as indicated on Meetup.
+Everyone is welcome to join us at our chapter meetings. In person meetings are held at various locations and times as indicated in the event details on Meetup .
 
-During government instituted lockdown our meetings have been held online using Zoom.
+During government instituted lockdown our meetings have been held online using Zoom. These details are also in the event details on Meetup.  
 
 
 ## Meeting Sponsors
