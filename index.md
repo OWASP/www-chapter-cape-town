@@ -13,13 +13,13 @@ postal-code: 8000
 
 ## Welcome
 OWASP Cape Town is a local South African chapter aimed at reaching and engaging the local developer and infosec community. 
-OWASP Cape Town holds regular meetups as well as gets involved in local conferences and groups such as [BSIDES Cape Town](https://bsidescapetown.co.za). 
+OWASP Cape Town holds regular meetups as well as gets involved in local conferences and groups, such as, [BSIDES Cape Town](https://bsidescapetown.co.za). 
 
 OWASP Cape Town is community driven and we always welcome local people to get involved in giving talks and share how they are doing their bit in securing the web. Please reach out if you would like to give a talk.
 
 ## Meetings
 
-Everyone is welcome to join us at our chapter meetings. In person meetings are held at various locations and times as indicated in the event details on Meetup .
+Everyone is welcome to join us at our chapter meetings. In person meetings are held at various locations and times as indicated in the event details on Meetup.
 
 During government instituted lockdown our meetings have been held online using Zoom. These details are also in the event details on Meetup.  
 
