@@ -33,11 +33,11 @@ The following is the list of organisations who have generously provided us with 
 
 <table cellpadding="10" cellspacing="0" border="0">
 <tr>
-<td> <img src="assets/images/voss.png" alt="VOSS Solutions"/> </td>
+<td> <a href="https://www.voss-solutions.com"><img src="assets/images/voss.png" alt="VOSS Solutions"/></a> </td>
 
-<td> <img src="assets/images/prodigyfinance.png" alt="Prodigy Finance"/> </td>
+<td> <a href="https://prodigyfinance.com"><img src="assets/images/prodigyfinance.png" alt="Prodigy Finance"/></a> </td>
 
-<td> <img src="assets/images/thinkst.png" alt="Thinkst"/> </td>
+<td> <a href="https://thinkst.com"><img src="assets/images/thinkst.png" alt="Thinkst"/></a> </td>
 </tr>
 </table>
 
