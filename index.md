@@ -44,8 +44,8 @@ The following is the list of organisations who have generously provided us with 
 
 ### Join Our Events
 
-Please join our meetup group if you would like to attend future events:
-It is important to RSVP if you would like to attend as it helps us with logistics planning.  
+Please join our meetup group if you would like to attend future events.
+It is important to RSVP if you would like to attend as it helps us with planning the logistics.  
   - [OWASP Cape Town Chapter Meetup Group](http://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup)
 
 #### Upcoming  Events
