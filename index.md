@@ -13,37 +13,39 @@ postal-code: 8000
 
 ## Welcome
 OWASP Cape Town is a local South African chapter aimed at reaching and engaging the local developer and infosec community. 
-OWASP Cape Town holds regular meetups as well as gets involved in local conferences and groups such as [BSDIDES Cape Town](https://bsidescapetown.co.za). 
+OWASP Cape Town holds regular meetups as well as gets involved in local conferences and groups such as [BSIDES Cape Town](https://bsidescapetown.co.za). 
 
 OWASP Cape Town is community driven and we always welcome local people to get involved in giving talks and share how they are doing their bit in securing the web. Please reach out if you would like to give a talk.
-
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). 
-Financial contributions should only be made online using the authorized online donation button. 
-To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-
-
-## Opposing the South African Cyber Crimes Bill
-
-[Opposing the cyber crimes bill](https://wiki.owasp.org/index.php/Opposing_South_African_CyberCrimes_Bill)
 
 ## Local News
 
 **Meeting Location**
 
-Everyone is welcome to join us at our chapter meetings.
+Everyone is welcome to join us at our chapter meetings. In person meetings are held at various locations as indicated on Meetup.
 
 During government instituted lockdown our meetings have been held online using Zoom.
+
+
+Meeting Sponsors
+----------------
+
+The following is the list of organisations who have generously provided us with space for OWASP Cape Town chapter meetings:
+
+<table cellpadding="10" cellspacing="0" border="0">
+<tr>
+<td> <img src="assets/images/voss.png" alt="VOSS Solutions"/> </td>
+
+<td> <img src="assets/images/prodigyfinance.png" alt="Prodigy Finance"/> </td>
+
+<td> <img src="assets/images/thinkst.png" alt="Thinkst"/> </td>
+</tr>
+</table>
+
 
 ### Join Our Events
 
 Please join our meetup group if you would like to attend future events:
-It is important to RSVP if you would like to attend, as our venues are not very big.  
+It is important to RSVP if you would like to attend as it helps us with logistics planning.  
   - [OWASP Cape Town Chapter Meetup Group](http://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup)
 
 #### Upcoming  Events
@@ -53,6 +55,10 @@ It is important to RSVP if you would like to attend, as our venues are not very 
 #### Past Events
 
  - [Past events](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/past/)
+
+## Opposing the South African Cyber Crimes Bill
+
+[Opposing the cyber crimes bill](https://wiki.owasp.org/index.php/Opposing_South_African_CyberCrimes_Bill)
 
 **Slides**
 
@@ -78,6 +84,15 @@ Slides from PCI DSS Talk [PCI DSS](https://docs.google.com/presentation/d/1spHkD
 ### Community Meetups
 
   - [0xC0FFEE Monthly Hacker Meetup](https://twitter.com/0xC0FFEE_CPT)
+
+## Participation
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+
+Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). 
+Financial contributions should only be made online using the authorized online donation button. 
+To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+
+Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 [Category:OWASP Chapter](Category:OWASP_Chapter )
 [Category:Africa](Category:Africa )
