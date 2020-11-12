@@ -76,8 +76,8 @@ Slides from PCI DSS Talk [PCI DSS](https://docs.google.com/presentation/d/1spHkD
 ### Conferences
 
   - [BSIDES Cape Town](http://www.bsidescapetown.co.za)
-  - [ZACON](https://zacon.org.za)
-
+  - [0xcon](https://0xcon.co.za)
+ 
 ### Community Meetups
 
   - [0xC0FFEE Monthly Hacker Meetup](https://twitter.com/0xC0FFEE_CPT)
