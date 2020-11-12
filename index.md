@@ -56,13 +56,13 @@ The following is the list of organisations who have generously provided us with 
 
 **Slides**
 
-Slides from 1st Official OWASP Cape Town Meeting: [1st Meeting Slides](/www-pdf-archive/Owasp-meeting1-17jun2015.pdf)
+- Slides from 1st Official OWASP Cape Town Meeting: [1st Meeting Slides](/www-pdf-archive/Owasp-meeting1-17jun2015.pdf)
 
-Slides from 2nd Meeting [Intro To Enumeration](https://www.owasp.org/images/6/6e/Intro_To_Enumeration_FINAL_MAIL_OUT.odp)
+- Slides from 2nd Meeting [Intro To Enumeration](https://www.owasp.org/images/6/6e/Intro_To_Enumeration_FINAL_MAIL_OUT.odp)
 
-Slides Intro To Metasploit [Intro To Metasploit](https://www.owasp.org/index.php/File:Intro_To_Metasploit_FINAL.odp)
+- Slides Intro To Metasploit [Intro To Metasploit](https://www.owasp.org/index.php/File:Intro_To_Metasploit_FINAL.odp)
 
-Slides from PCI DSS Talk [PCI DSS](https://docs.google.com/presentation/d/1spHkDjvLA4apqKmIGrKRfNB1cMHWB8nzwjW_A3QzVTs)
+- Slides from PCI DSS Talk [PCI DSS](https://docs.google.com/presentation/d/1spHkDjvLA4apqKmIGrKRfNB1cMHWB8nzwjW_A3QzVTs)
 
 #### Youtube Channel:
 
