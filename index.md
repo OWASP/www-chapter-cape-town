@@ -24,21 +24,6 @@ Everyone is welcome to join us at our chapter meetings. In person meetings are h
 During government instituted lockdown our meetings have been held online using Zoom. These details are also in the event details on Meetup.  
 
 
-## Meeting Sponsors
-
-The following is the list of organisations who have generously provided us with space for OWASP Cape Town chapter meetings:
-
-<table cellpadding="10" cellspacing="0" border="0">
-<tr>
-<td> <a href="https://www.voss-solutions.com"><img src="assets/images/voss.png" alt="VOSS Solutions"/></a> </td>
-
-<td> <a href="https://prodigyfinance.com"><img src="assets/images/prodigyfinance.png" alt="Prodigy Finance"/></a> </td>
-
-<td> <a href="https://thinkst.com"><img src="assets/images/thinkst.png" alt="Thinkst"/></a> </td>
-</tr>
-</table>
-
-
 ### Join Our Events
 
 Please join our meetup group if you would like to attend future events.
@@ -53,9 +38,21 @@ It is important to RSVP if you would like to attend as it helps us with planning
 
  - [Past events](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/past/)
 
-## Opposing the South African Cyber Crimes Bill
 
-[Opposing the cyber crimes bill](https://wiki.owasp.org/index.php/Opposing_South_African_CyberCrimes_Bill)
+### Meeting Sponsors
+
+The following is the list of organisations who have generously provided us with space for OWASP Cape Town chapter meetings:
+
+<table cellpadding="10" cellspacing="0" border="0">
+<tr>
+<td> <a href="https://www.voss-solutions.com"><img src="assets/images/voss.png" alt="VOSS Solutions"/></a> </td>
+
+<td> <a href="https://prodigyfinance.com"><img src="assets/images/prodigyfinance.png" alt="Prodigy Finance"/></a> </td>
+
+<td> <a href="https://thinkst.com"><img src="assets/images/thinkst.png" alt="Thinkst"/></a> </td>
+</tr>
+</table>
+
 
 **Slides**
 
@@ -71,6 +68,12 @@ Slides from PCI DSS Talk [PCI DSS](https://docs.google.com/presentation/d/1spHkD
 
 <https://www.youtube.com/channel/UC514UtotMbbNAPqP6aeNpXA>
 
+
+## Opposing the South African Cyber Crimes Bill
+
+[Opposing the cyber crimes bill](https://wiki.owasp.org/index.php/Opposing_South_African_CyberCrimes_Bill)
+
+
 ## Local Infosec Community
 
 ### Conferences
@@ -82,7 +85,8 @@ Slides from PCI DSS Talk [PCI DSS](https://docs.google.com/presentation/d/1spHkD
 
   - [0xC0FFEE Monthly Hacker Meetup](https://twitter.com/0xC0FFEE_CPT)
 
-## Participation
+
+## OWASP Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). 
