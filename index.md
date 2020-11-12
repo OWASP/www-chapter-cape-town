@@ -64,7 +64,7 @@ The following is the list of organisations who have generously provided us with 
 
 - Slides from PCI DSS Talk [PCI DSS](https://docs.google.com/presentation/d/1spHkDjvLA4apqKmIGrKRfNB1cMHWB8nzwjW_A3QzVTs)
 
-### Public particpation on the South African Cybercrimes and Cybersecurity Bill (B6–2017) 
+### Public particpation on the South African 'Cybercrimes and Cybersecurity Bill (B6–2017)' 
 During the public participation phase of the South African law-making process, OWASP Cape Town collected and provided many comments on the original 'Cybercrimes and Cybersecurity Bill (B6-2017)'. After a lengthy process the cybersecurity provisions, relating to intelligence services, were removed and the bill was renamed the Cybercrimes Bill.
 
 #### Youtube Channel
