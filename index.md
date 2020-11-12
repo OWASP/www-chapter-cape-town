@@ -56,6 +56,8 @@ The following is the list of organisations who have generously provided us with 
 
 ### Slides
 
+Not all meeting slides are available but when they are they are generaly linked to in the Meetup event or Youtube video description. Some are available here:
+
 - [OWASP Cape Town Chapter Meeting 1](/www-pdf-archive/Owasp-meeting1-17jun2015.pdf)
 
 - [Intro To Enumeration](https://www.owasp.org/images/6/6e/Intro_To_Enumeration_FINAL_MAIL_OUT.odp) (broken link)
