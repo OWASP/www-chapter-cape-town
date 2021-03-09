@@ -39,7 +39,7 @@ It is important to RSVP if you would like to attend as it helps us with planning
  - [Past events](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/past/)
 
 
-### Sponsors
+### Supporters
 
 The following is the list of organisations who have generously provided us with space for OWASP Cape Town chapter meetings:
 
