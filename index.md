@@ -32,8 +32,8 @@ It is important to RSVP if you would like to attend as it helps us with planning
 
 #### Upcoming  Events
 
- - [Upcoming events](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/)
-
+ {% include chapter_events.html group=page.meetup-group %}
+ 
 #### Past Events
 
  - [Past events](https://www.meetup.com/OWASP-Cape-Town-Chapter-Meetup/events/past/)
